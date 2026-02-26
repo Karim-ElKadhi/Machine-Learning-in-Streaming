@@ -1,5 +1,4 @@
 /mlis
-*.csv
 *.json
 *.log
 *.h5
